@@ -1,0 +1,6 @@
+framework module Pods_GStreamerSwift {
+  umbrella header "Pods-GStreamerSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
